@@ -3,3 +3,5 @@
 2) adding new line..
 
 3) asdf//
+
+checking diffmerge from master
