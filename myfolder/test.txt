@@ -3,3 +3,10 @@
 2) adding new line..
 
 3) asdf//
+
+4) subtract branch?!
+
+for add branch
+gto see the 'diff' cmd
+
+New line for checking out diffmerge tool..
